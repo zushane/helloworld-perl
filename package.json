@@ -1,0 +1,20 @@
+
+  "name": "helloworld-perl",
+  "version": "0.1.1",
+  "description": "Hello, world! (in perl)",
+  "scripts": {
+    "release": "standard-version -a -m 'chore(release): %s [ci-skip]'",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zushane/helloworld-perl.git"
+  },
+  "author": "Shane Doucette <sd@zu.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zushane/helloworld-perl/issues"
+  },
+  "homepage": "https://github.com/zushane/helloworld-perl/#readme",
+  "devDependencies": {
+  },
+}
