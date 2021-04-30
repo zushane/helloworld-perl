@@ -28,7 +28,7 @@ jobs:
       - name: Get changelog
         id: get_changelog
         run: |
-          changelog=`standard-version --git-tag-fallback --dry-run | sed -n '/^---$/,/^---$/p' | grep -v '^---$'`
+          changelog=`npx standard-version --git-tag-fallback --dry-run | sed -n '/^---$/,/^---$/p' | grep -v '^---$'`
           changelog="${changelog//'%'/'%25'}"
           changelog="${changelog//$'\n'/'%0A'}"
           changelog="${changelog//$'\r'/'%0D'}"
@@ -44,7 +44,7 @@ jobs:
       - name: Create release
         id: standard-version
         run:
-          standard-version --git-tag-fallback -a
+          npx standard-version --git-tag-fallback -a
           echo ::set-output name=version-tag::$(git describe --tags $(git rev-list --tags --max-count=1))
 
       - name: get-npm-version
