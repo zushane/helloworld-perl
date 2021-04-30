@@ -1,0 +1,14 @@
+# gitignore
+*.swp
+config
+Capfile
+REVISION
+capistrano
+*.sublime-*
+.env
+86/
+Build
+MYMETA.json
+MYMETA.yml
+_build/
+blib/
