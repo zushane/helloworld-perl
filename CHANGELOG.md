@@ -1,4 +1,16 @@
 Changelog
+### [0.2.3](https://github.com/zushane/helloworld-perl/compare/0.1.1...0.2.3) (2021-05-04)
+
+
+### Features
+
+* consolidating versioning throughout application. ([18340b9](https://github.com/zushane/helloworld-perl/commit/18340b9d46a4088a2616d27e80a34a81ce1fd287))
+
+
+### Bug Fixes
+
+* consolidate version across ALL files. ([f4914d3](https://github.com/zushane/helloworld-perl/commit/f4914d3d647d3539e952d538ef1c285102a4a8c4))
+
 ### [0.1.2](https://github.com/zushane/helloworld-perl/compare/0.1.1...0.1.2) (2021-05-04)
 
 
