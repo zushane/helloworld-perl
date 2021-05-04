@@ -2,14 +2,14 @@ use strict;
 use warnings;
 package HelloWorld;
 
-$HelloWorld::VERSION = '0.2.0';
+$HelloWorld::VERSION = '0.2.1';
 
 sub hello {
-   return "Hello, world!";
+    return "Hello, world!";
 }
 
 sub bye {
-   return "Goodbye, then!";
+    return "Goodbye, then!";
 }
 
 sub what {
@@ -22,7 +22,7 @@ sub synonym {
 }
 
 sub repeat {
-   return 1;
+    return 1;
 }
 
 sub untested {
@@ -45,7 +45,7 @@ sub argumentTest {
         return "unknown";
     }
 
-   return "Unreachable code: cannot be covered";
+    return "Unreachable code: cannot be covered";
 }
 
 1;
