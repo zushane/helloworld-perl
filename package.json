@@ -1,9 +1,9 @@
-
+{
   "name": "helloworld-perl",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "description": "Hello, world! (in perl)",
   "scripts": {
-    "release": "standard-version -a -m 'chore(release): %s [ci-skip]'",
+    "release": "standard-version -a -m 'chore(release): %s [ci-skip]'"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,5 @@
   },
   "homepage": "https://github.com/zushane/helloworld-perl/#readme",
   "devDependencies": {
-  },
+  }
 }

@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package HelloWorld;
 
-$HelloWorld::VERSION = '0.2.1';
+$HelloWorld::VERSION = '0.2.2';
 
 sub hello {
     return "Hello, world!";
