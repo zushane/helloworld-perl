@@ -1,4 +1,11 @@
 Changelog
+### [0.2.4](https://github.com/zushane/helloworld-perl/compare/0.2.3...0.2.4) (2021-05-05)
+
+
+### Chores
+
+* bumped version, added synonym. ([58bab63](https://github.com/zushane/helloworld-perl/commit/58bab635b73e35ef85ddb504f6702cb90ff45c63))
+
 ### [0.2.3](https://github.com/zushane/helloworld-perl/compare/0.1.1...0.2.3) (2021-05-04)
 
 
