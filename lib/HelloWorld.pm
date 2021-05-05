@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package HelloWorld;
 
-$HelloWorld::VERSION = '0.2.2';
+$HelloWorld::VERSION = '0.2.4';
 
 sub hello {
     return "Hello, world!";
@@ -17,7 +17,7 @@ sub what {
 }
 
 sub synonym {
-	my @array = ( "earth", "globe", "planet", "all of creation" );
+	my @array = ( "earth", "globe", "planet", "all of creation", "mother earth" );
 	return $array[rand @array];
 }
 
