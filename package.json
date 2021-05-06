@@ -1,13 +1,11 @@
 {
   "name": "helloworld-perl",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Hello, world! (in perl!)",
   "repository": "zushane/helloworld-perl",
   "author": "Shane Doucette <sd@zu.com>",
   "license": "ISC",
   "homepage": "https://github.com/zushane/helloworld-perl#readme",
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
