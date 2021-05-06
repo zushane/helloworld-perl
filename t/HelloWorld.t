@@ -55,3 +55,6 @@ is($argumentTestCall4, "unknown", "argumentTest() IS unknown test");
 my @array = ( "earth", "globe", "planet", "all of creation", "mother earth" );
 my $synonymTest = HelloWorld::synonym();
 ok(grep(/$synonymTest/,@array));
+
+# All done testing.
+done_testing();
