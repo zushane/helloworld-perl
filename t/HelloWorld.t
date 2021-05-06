@@ -50,3 +50,6 @@ is($argumentTestCall3, "false", "argumentTest() IS false test");
 # Test argumentTest(123) 
 my $argumentTestCall4 = HelloWorld::argumentTest(123);
 is($argumentTestCall4, "unknown", "argumentTest() IS unknown test");
+
+# All done testing.
+done_testing( $number_of_tests_run );
