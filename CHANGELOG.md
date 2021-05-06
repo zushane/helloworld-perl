@@ -1,4 +1,17 @@
 Changelog
+### [0.2.5](https://github.com/zushane/helloworld-perl/compare/0.2.4...0.2.5) (2021-05-06)
+
+
+### Features
+
+* add new test for synonym. ([3782ef9](https://github.com/zushane/helloworld-perl/commit/3782ef97f0ab06310a6d057e5e4bd68625066ed9))
+* add simple test plan. ([fb7381d](https://github.com/zushane/helloworld-perl/commit/fb7381d33042f62c2049bfe6a111800b0c424819))
+
+
+### Bug Fixes
+
+* revert test plan ([9e288a8](https://github.com/zushane/helloworld-perl/commit/9e288a85efc7210984f32c3e6918e3f2640b011c))
+
 ### [0.2.4](https://github.com/zushane/helloworld-perl/compare/0.2.3...0.2.4) (2021-05-05)
 
 
