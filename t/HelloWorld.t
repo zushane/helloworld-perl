@@ -50,3 +50,8 @@ is($argumentTestCall3, "false", "argumentTest() IS false test");
 # Test argumentTest(123) 
 my $argumentTestCall4 = HelloWorld::argumentTest(123);
 is($argumentTestCall4, "unknown", "argumentTest() IS unknown test");
+
+# Test synonym()
+my @array = ( "earth", "globe", "planet", "all of creation", "mother earth" );
+my $synonymTest = HelloWorld::synonym();
+ok(grep(/$synonymTest/,@array));
