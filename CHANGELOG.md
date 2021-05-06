@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.8](https://github.com/zushane/helloworld-perl/compare/v0.2.7...v0.2.8) (2021-05-06)
+
+
+### Features
+
+* updated package.json ([4e827e5](https://github.com/zushane/helloworld-perl/commit/4e827e5a375581c9ab6695b02e47787f07d88618))
+* updated README.md ([ad7dcd2](https://github.com/zushane/helloworld-perl/commit/ad7dcd242748ff69f5d62699a25a20b8fa8e384b))
+
 ### 0.2.7 (2021-05-06)
 
 

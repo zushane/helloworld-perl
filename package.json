@@ -1,6 +1,6 @@
 {
   "name": "helloworld-perl",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Hello, world! (in perl!)",
   "repository": "zushane/helloworld-perl",
   "author": "Shane Doucette <sd@zu.com>",
