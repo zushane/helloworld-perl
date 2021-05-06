@@ -1,4 +1,11 @@
 Changelog
+### [0.2.6](https://github.com/zushane/helloworld-perl/compare/0.2.5...0.2.6) (2021-05-06)
+
+
+### Features
+
+* End of testing. ([fdca72b](https://github.com/zushane/helloworld-perl/commit/fdca72b89b911424dce17497b26b6a9ef5efc6d5))
+
 ### [0.2.5](https://github.com/zushane/helloworld-perl/compare/0.2.4...0.2.5) (2021-05-06)
 
 
