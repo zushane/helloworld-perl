@@ -1,9 +1,68 @@
 {
+  "header": "Changelog",
   "types": [
-    {"type":"feat","section":"Features"},
-    {"type":"fix","section":"Bug Fixes"},
-    {"type":"test","section":"Tests", "hidden": true},
-    {"type":"build","section":"Build System", "hidden": true},
-    {"type":"ci","hidden":true}
-  ]
+    {
+      "type": "feat",
+      "section": "Features"
+    },
+    {
+      "type": "fix",
+      "section": "Bug Fixes"
+    },
+    {
+      "type": "build",
+      "hidden": false,
+      "section": "Build System"
+    },
+    {
+      "type": "chore",
+      "hidden": false,
+      "section": "Chores"
+    },
+    {
+      "type": "ci",
+      "hidden": false,
+      "section": "Continuous Integration"
+    },
+    {
+      "type": "docs",
+      "hidden": false,
+      "section": "Documentation Improvements"
+    },
+    {
+      "type": "perf",
+      "hidden": false,
+      "section": "Performance Improvements"
+    },
+    {
+      "type": "refactor",
+      "hidden": false,
+      "section": "Refactoring"
+    },
+    {
+      "type": "style",
+      "hidden": false,
+      "section": "Style Updates"
+    },
+    {
+      "type": "test",
+      "hidden": false,
+      "section": "Test Changes"
+    }
+  ],
+  "commitUrlFormat": "{{host}}/{{owner}}/{{repository}}/commit/{{hash}}",
+  "compareUrlFormat": "{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}",
+  "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}",
+  "userUrlFormat": "{{host}}/{{user}}",
+  "releaseCommitMessageFormat": "release: {{currentTag}}",
+  "tag-prefix": "",
+  "issuePrefixes": [
+    "#"
+   ],
+  "bumpFiles": [
+      {
+        "filename": "package.json",
+        "type": "json"
+      }
+    ]
 }
