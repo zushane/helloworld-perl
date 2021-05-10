@@ -1,6 +1,5 @@
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+Changelog
+### [1.0.1](https://github.com/zushane/helloworld-perl/compare/1.0.0...1.0.1) (2021-05-10)
 
 ### [0.2.8](https://github.com/zushane/helloworld-perl/compare/v0.2.7...v0.2.8) (2021-05-06)
 
