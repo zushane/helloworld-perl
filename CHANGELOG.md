@@ -1,4 +1,6 @@
 Changelog
+### [1.0.20](https://github.com/zushane/helloworld-perl/compare/1.0.19...1.0.20) (2021-05-12)
+
 ### [1.0.19](https://github.com/zushane/helloworld-perl/compare/1.0.18...1.0.19) (2021-05-12)
 
 ### [1.0.18](https://github.com/zushane/helloworld-perl/compare/1.0.17...1.0.18) (2021-05-12)
