@@ -1,6 +1,6 @@
 {
   "name": "helloworld-perl",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Hello, world! (in perl)",
   "scripts": {
     "release": "standard-version -a -m 'chore(release): %s [ci-skip]'"
