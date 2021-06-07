@@ -1,4 +1,11 @@
 Changelog
+### [1.0.24](https://github.com/zushane/helloworld-perl/compare/1.0.23...1.0.24) (2021-06-07)
+
+
+### Bug Fixes
+
+* I`ve done it. I`ve changed README. ([9423bf4](https://github.com/zushane/helloworld-perl/commit/9423bf4e27bc45346fe0e5a9d7e7cd5a701b3830))
+
 ### [1.0.23](https://github.com/zushane/helloworld-perl/compare/1.0.22...1.0.23) (2021-06-07)
 
 
